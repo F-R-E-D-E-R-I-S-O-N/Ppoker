@@ -1,4 +1,4 @@
-# Это покер на пайтоне
+
 import random
 
 randmast = random.randint(1, 4)
